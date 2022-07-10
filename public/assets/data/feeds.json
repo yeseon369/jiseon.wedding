@@ -4,7 +4,7 @@
       "id": 999,
       "contents": [
         {
-          "imageSrc": "/assets/img/temp.jpg",
+          "imageSrc": "/assets/img/temp2.jpg",
           "action": {
             "type": "normal",
             "text": "단순 메세지 노출",
@@ -12,7 +12,7 @@
           }
         },
         {
-          "imageSrc": "/assets/img/temp.jpg",
+          "imageSrc": "/assets/img/temp2.jpg",
           "action": {
             "type": "link",
             "text": "링크 열기 기능 (결혼식장 안내)",
@@ -23,7 +23,7 @@
           }
         },
         {
-          "imageSrc": "/assets/img/temp.jpg",
+          "imageSrc": "/assets/img/temp2.jpg",
           "action": {
             "type": "link",
             "text": "링크 열기 기능",
@@ -34,7 +34,7 @@
           }
         },
         {
-          "imageSrc": "/assets/img/temp.jpg",
+          "imageSrc": "/assets/img/temp2.jpg",
           "action": {
             "type": "bottom-sheet_toss",
             "text": "바텀싯 열기 기능 (송금기능)",
@@ -42,7 +42,7 @@
           }
         },
         {
-          "imageSrc": "/assets/img/temp.jpg",
+          "imageSrc": "/assets/img/temp2.jpg",
           "action": {
             "type": "bottom-sheet_account",
             "text": "바텀싯 열기 기능 (계좌 목록)",
@@ -50,23 +50,23 @@
           }
         }
       ],
-      "description": "저희 결혼해요! 20xx년 xx월 xx일 토요일 오전 xx시 xx분 서울특별시 강남구 청담동 xx로 xxx, xxxxx",
-      "createdAt": "2018-11-27"
+      "description": "저희 결혼해요! 2022년 9월 3일 12시 서울 강남구 언주역 8번 출구 삼정호텔",
+      "createdAt": "2022-07-10"
     },
     {
       "id": 4,
       "contents": [
         {
-          "imageSrc": "/assets/img/temp.jpg"
+          "imageSrc": "/assets/img/temp2.jpg"
         },
         {
-          "imageSrc": "/assets/img/temp.jpg"
+          "imageSrc": "/assets/img/temp2.jpg"
         },
         {
-          "imageSrc": "/assets/img/temp.jpg"
+          "imageSrc": "/assets/img/temp2.jpg"
         },
         {
-          "imageSrc": "/assets/img/temp.jpg"
+          "imageSrc": "/assets/img/temp2.jpg"
         }
       ],
       "description": "피드 설명",
@@ -76,13 +76,13 @@
       "id": 5,
       "contents": [
         {
-          "imageSrc": "/assets/img/temp.jpg"
+          "imageSrc": "/assets/img/temp2.jpg"
         },
         {
-          "imageSrc": "/assets/img/temp.jpg"
+          "imageSrc": "/assets/img/temp2.jpg"
         },
         {
-          "imageSrc": "/assets/img/temp.jpg"
+          "imageSrc": "/assets/img/temp2.jpg"
         }
       ],
       "description": "피드 설명",
