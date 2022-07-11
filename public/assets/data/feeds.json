@@ -1,40 +1,40 @@
 {
   "data": [
     {
-      "id": 999,
+      "id": 1,
       "contents": [
         {
-          "imageSrc": "/assets/img/temp2.jpg",
+          "imageSrc": "/assets/img/feed1_1.jpg",
           "action": {
             "type": "normal",
-            "text": "단순 메세지 노출",
-            "color": "#7f1d1d"
+            "text": "사진 오른쪽으로 넘겨서 확인하기",
+            "color": "#1497f5"
           }
         },
         {
-          "imageSrc": "/assets/img/temp2.jpg",
+          "imageSrc": "/assets/img/feed1_2.jpg",
           "action": {
             "type": "link",
-            "text": "링크 열기 기능 (결혼식장 안내)",
+            "text": "여기를 눌러서 구글 캘린더 추가하기",
             "color": "#d97706",
-            "href": "https://m.calendar.naver.com",
-            "mobileLink": "https://m.calendar.naver.com",
-            "pcLink": "https://calendar.naver.com"
+            "href": "https://calendar.google.com/calendar/r/eventedit?text=%EC%9D%B4%EC%98%88%EC%84%A0%2C%20%ED%95%9C%EC%A7%80%ED%98%9C%20%EA%B2%B0%ED%98%BC%EC%8B%9D&dates=20220903T030000Z%2F20220903T050000Z&location=%EC%84%9C%EC%9A%B8%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94&details=2022%EB%85%84%209%EC%9B%94%203%EC%9D%BC%2012%EC%8B%9C%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94%2C%20%EC%84%9C%EC%9A%B8%20%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%97%AD%EC%82%BC%EB%8F%99%20604-11%20(%EB%B4%89%EC%9D%80%EC%82%AC%EB%A1%9C%20150)",
+            "mobileLink": "https://calendar.google.com/calendar/r/eventedit?text=%EC%9D%B4%EC%98%88%EC%84%A0%2C%20%ED%95%9C%EC%A7%80%ED%98%9C%20%EA%B2%B0%ED%98%BC%EC%8B%9D&dates=20220903T030000Z%2F20220903T050000Z&location=%EC%84%9C%EC%9A%B8%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94&details=2022%EB%85%84%209%EC%9B%94%203%EC%9D%BC%2012%EC%8B%9C%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94%2C%20%EC%84%9C%EC%9A%B8%20%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%97%AD%EC%82%BC%EB%8F%99%20604-11%20(%EB%B4%89%EC%9D%80%EC%82%AC%EB%A1%9C%20150)",
+            "pcLink": "https://calendar.google.com/calendar/r/eventedit?text=%EC%9D%B4%EC%98%88%EC%84%A0%2C%20%ED%95%9C%EC%A7%80%ED%98%9C%20%EA%B2%B0%ED%98%BC%EC%8B%9D&dates=20220903T030000Z%2F20220903T050000Z&location=%EC%84%9C%EC%9A%B8%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94&details=2022%EB%85%84%209%EC%9B%94%203%EC%9D%BC%2012%EC%8B%9C%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94%2C%20%EC%84%9C%EC%9A%B8%20%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%97%AD%EC%82%BC%EB%8F%99%20604-11%20(%EB%B4%89%EC%9D%80%EC%82%AC%EB%A1%9C%20150)"
           }
         },
         {
-          "imageSrc": "/assets/img/temp2.jpg",
+          "imageSrc": "/assets/img/feed1_3.jpg",
           "action": {
             "type": "link",
-            "text": "링크 열기 기능",
-            "color": "#3B6045",
-            "href": "https://m.map.naver.com/",
-            "mobileLink": "https://m.map.naver.com/",
-            "pcLink": "https://map.naver.com/"
+            "text": "여기를 눌러서 네이버 지도에서 가는길 보기",
+            "color": "#05a826",
+            "href": "https://m.map.naver.com/https://map.naver.com/v5/directions/-/14141032.491056133,4509855.468405642,%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94,11658929,PLACE_POI/-/transit?c=14151269.9658226,4496888.0907116,15,0,0,0,dh",
+            "mobileLink": "https://map.naver.com/v5/directions/-/14141032.491056133,4509855.468405642,%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94,11658929,PLACE_POI/-/transit?c=14151269.9658226,4496888.0907116,15,0,0,0,dh",
+            "pcLink": "https://map.naver.com/v5/directions/-/14141032.491056133,4509855.468405642,%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94,11658929,PLACE_POI/-/transit?c=14151269.9658226,4496888.0907116,15,0,0,0,dh"
           }
         },
         {
-          "imageSrc": "/assets/img/temp2.jpg",
+          "imageSrc": "/assets/img/feed1_1.jpg",
           "action": {
             "type": "bottom-sheet_toss",
             "text": "바텀싯 열기 기능 (송금기능)",
@@ -42,7 +42,7 @@
           }
         },
         {
-          "imageSrc": "/assets/img/temp2.jpg",
+          "imageSrc": "/assets/img/feed1_1.jpg",
           "action": {
             "type": "bottom-sheet_account",
             "text": "바텀싯 열기 기능 (계좌 목록)",
@@ -50,11 +50,11 @@
           }
         }
       ],
-      "description": "저희 결혼해요! 2022년 9월 3일 12시 서울 강남구 언주역 8번 출구 삼정호텔",
+      "description": "Happy wedding Day💖\n\t\t   4년간의 연애를 마치고 이예선, 한지혜 결혼합니다 ",
       "createdAt": "2022-07-10"
     },
     {
-      "id": 4,
+      "id": 2,
       "contents": [
         {
           "imageSrc": "/assets/img/temp2.jpg"
@@ -73,7 +73,7 @@
       "tags": ["태그1", "태그2"]
     },
     {
-      "id": 5,
+      "id": 3,
       "contents": [
         {
           "imageSrc": "/assets/img/temp2.jpg"
