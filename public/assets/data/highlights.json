@@ -2,13 +2,19 @@
   "data": [
     {
       "id": 1,
-      "name": "하이라이트1",
-      "thumbnailImageSrc": "/assets/img/temp2.jpg",
+      "name": "식사메뉴",
+      "thumbnailImageSrc": "/assets/img/fork_knife.jpg",
       "contents": [{
         "id": 1,
-        "imageSrc": "/assets/img/temp2.jpg",
-        "theme": "dark"
-      }]
+        "imageSrc": "/assets/img/hotel_menu_1.jpg",
+        "theme": "white"
+      },
+      {
+        "id": 2,
+        "imageSrc": "/assets/img/hotel_menu_2.jpg",
+        "theme": "white"
+      }   
+    ]
     },
     {
       "id": 2,

@@ -34,23 +34,15 @@
           }
         },
         {
-          "imageSrc": "/assets/img/feed1_1.jpg",
-          "action": {
-            "type": "bottom-sheet_toss",
-            "text": "바텀싯 열기 기능 (송금기능)",
-            "color": "#3182F6"
-          }
-        },
-        {
-          "imageSrc": "/assets/img/feed1_1.jpg",
+          "imageSrc": "/assets/img/feed1_4.jpg",
           "action": {
             "type": "bottom-sheet_account",
-            "text": "바텀싯 열기 기능 (계좌 목록)",
+            "text": "여기를 눌러서 계좌정보를 확인하세요!",
             "color": "#6B31E7"
           }
         }
       ],
-      "description": "Happy wedding Day💖\n\t\t   4년간의 연애를 마치고 이예선, 한지혜 결혼합니다 ",
+      "description": "\nHappy wedding Day💖\n4년간의 연애를 마치고 이예선, 한지혜 결혼합니다 ",
       "createdAt": "2022-07-10"
     },
     {
