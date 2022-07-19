@@ -49,36 +49,64 @@
       "id": 2,
       "contents": [
         {
-          "imageSrc": "/assets/img/temp2.jpg"
+          "imageSrc": "/assets/img/introduce_jihye.png"
         },
         {
-          "imageSrc": "/assets/img/temp2.jpg"
-        },
-        {
-          "imageSrc": "/assets/img/temp2.jpg"
-        },
-        {
-          "imageSrc": "/assets/img/temp2.jpg"
+          "imageSrc": "/assets/img/introduce_yeseon.png"
         }
       ],
-      "description": "피드 설명",
-      "tags": ["태그1", "태그2"]
+      "description": "신랑, 신부를 소개합니다 :) "
     },
     {
       "id": 3,
       "contents": [
         {
-          "imageSrc": "/assets/img/temp2.jpg"
+          "imageSrc": "/assets/img/sero_1.jpg"
         },
         {
-          "imageSrc": "/assets/img/temp2.jpg"
+          "imageSrc": "/assets/img/sero_2.jpg"
         },
         {
-          "imageSrc": "/assets/img/temp2.jpg"
+          "imageSrc": "/assets/img/sero_3.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/sero_4.jpg"
         }
       ],
-      "description": "피드 설명",
-      "tags": ["태그1", "태그2"]
+      "description": "",
+      "tags": ["세로 사진"]
+    },
+    {
+      "id": 4,
+      "contents": [
+        {
+          "imageSrc": "/assets/img/garo_1.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/garo_2.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/garo_3.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/garo_4.jpg"
+        }
+      ],
+      "description": "",
+      "tags": ["가로 사진"]
+    },
+    {
+      "id": 5,
+      "contents": [
+        {
+          "imageSrc": "/assets/img/love_1.png"
+        },
+        {
+          "imageSrc": "/assets/img/love_3.jpg"
+        }
+      ],
+      "description": "",
+      "tags": ["연애 사진"]
     }
   ]
 }

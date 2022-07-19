@@ -7,32 +7,27 @@
       "contents": [{
         "id": 1,
         "imageSrc": "/assets/img/hotel_menu_1.jpg",
-        "theme": "white"
-      },
-      {
-        "id": 2,
-        "imageSrc": "/assets/img/hotel_menu_2.jpg",
-        "theme": "white"
-      }   
+        "theme": "dark"
+      }
     ]
     },
     {
       "id": 2,
-      "name": "하이라이트2",
-      "thumbnailImageSrc": "/assets/img/temp2.jpg",
+      "name": "즐길거리",
+      "thumbnailImageSrc": "/assets/img/story2_thumnail.png",
       "contents": [{
         "id": 1,
-        "imageSrc": "/assets/img/temp2.jpg",
+        "imageSrc": "/assets/img/story2.jpg",
         "theme": "dark"
       }]
     },
     {
       "id": 3,
-      "name": "하이라이트3",
-      "thumbnailImageSrc": "/assets/img/temp2.jpg",
+      "name": "주차정보",
+      "thumbnailImageSrc": "/assets/img/parking_thumbnail.jpg",
       "contents": [{
         "id": 1,
-        "imageSrc": "/assets/img/temp2.jpg",
+        "imageSrc": "/assets/img/parking.png",
         "theme": "dark"
       }]
     }
