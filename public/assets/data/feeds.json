@@ -12,7 +12,7 @@
           }
         },
         {
-          "imageSrc": "/assets/img/feed1_2.jpg",
+          "imageSrc": "/assets/img/feed1_2.png",
           "action": {
             "type": "link",
             "text": "여기를 눌러서 구글 캘린더 추가하기",
