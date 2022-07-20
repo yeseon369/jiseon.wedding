@@ -4,7 +4,7 @@
       "id": 1,
       "contents": [
         {
-          "imageSrc": "/assets/img/feed1_1.jpg",
+          "imageSrc": "/assets/img/feed1_1.png",
           "action": {
             "type": "normal",
             "text": "사진 오른쪽으로 넘겨서 확인하기",
