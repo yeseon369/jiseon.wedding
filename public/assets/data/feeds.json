@@ -18,12 +18,12 @@
             "text": "여기를 눌러서 구글 캘린더 추가하기",
             "color": "#d97706",
             "href": "https://calendar.google.com/calendar/r/eventedit?text=%EC%9D%B4%EC%98%88%EC%84%A0%2C%20%ED%95%9C%EC%A7%80%ED%98%9C%20%EA%B2%B0%ED%98%BC%EC%8B%9D&dates=20220903T030000Z%2F20220903T050000Z&location=%EC%84%9C%EC%9A%B8%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94&details=2022%EB%85%84%209%EC%9B%94%203%EC%9D%BC%2012%EC%8B%9C%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94%2C%20%EC%84%9C%EC%9A%B8%20%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%97%AD%EC%82%BC%EB%8F%99%20604-11%20(%EB%B4%89%EC%9D%80%EC%82%AC%EB%A1%9C%20150)",
-            "mobileLink": "https://calendar.google.com/calendar/r/eventedit?text=%EC%9D%B4%EC%98%88%EC%84%A0%2C%20%ED%95%9C%EC%A7%80%ED%98%9C%20%EA%B2%B0%ED%98%BC%EC%8B%9D&dates=20220903T030000Z%2F20220903T050000Z&location=%EC%84%9C%EC%9A%B8%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94&details=2022%EB%85%84%209%EC%9B%94%203%EC%9D%BC%2012%EC%8B%9C%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94%2C%20%EC%84%9C%EC%9A%B8%20%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%97%AD%EC%82%BC%EB%8F%99%20604-11%20(%EB%B4%89%EC%9D%80%EC%82%AC%EB%A1%9C%20150)",
+            "mobileLink": "https://m.calendar.google.com/calendar/r/eventedit?text=%EC%9D%B4%EC%98%88%EC%84%A0%2C%20%ED%95%9C%EC%A7%80%ED%98%9C%20%EA%B2%B0%ED%98%BC%EC%8B%9D&dates=20220903T030000Z%2F20220903T050000Z&location=%EC%84%9C%EC%9A%B8%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94&details=2022%EB%85%84%209%EC%9B%94%203%EC%9D%BC%2012%EC%8B%9C%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94%2C%20%EC%84%9C%EC%9A%B8%20%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%97%AD%EC%82%BC%EB%8F%99%20604-11%20(%EB%B4%89%EC%9D%80%EC%82%AC%EB%A1%9C%20150)",
             "pcLink": "https://calendar.google.com/calendar/r/eventedit?text=%EC%9D%B4%EC%98%88%EC%84%A0%2C%20%ED%95%9C%EC%A7%80%ED%98%9C%20%EA%B2%B0%ED%98%BC%EC%8B%9D&dates=20220903T030000Z%2F20220903T050000Z&location=%EC%84%9C%EC%9A%B8%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94&details=2022%EB%85%84%209%EC%9B%94%203%EC%9D%BC%2012%EC%8B%9C%20%EC%82%BC%EC%A0%95%ED%98%B8%ED%85%94%2C%20%EC%84%9C%EC%9A%B8%20%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%97%AD%EC%82%BC%EB%8F%99%20604-11%20(%EB%B4%89%EC%9D%80%EC%82%AC%EB%A1%9C%20150)"
           }
         },
         {
-          "imageSrc": "/assets/img/feed1_3.jpg",
+          "imageSrc": "/assets/img/feed1_3.png",
           "action": {
             "type": "link",
             "text": "여기를 눌러서 네이버 지도에서 가는길 보기",
@@ -34,7 +34,7 @@
           }
         },
         {
-          "imageSrc": "/assets/img/feed1_4.jpg",
+          "imageSrc": "/assets/img/feed1_4.png",
           "action": {
             "type": "bottom-sheet_account",
             "text": "여기를 눌러서 계좌정보를 확인하세요!",
@@ -49,10 +49,16 @@
       "id": 2,
       "contents": [
         {
-          "imageSrc": "/assets/img/introduce_jihye.png"
+          "imageSrc": "/assets/img/introduce_jihye_1.png"
         },
         {
-          "imageSrc": "/assets/img/introduce_yeseon.png"
+          "imageSrc": "/assets/img/introduce_jihye_2.png"
+        },
+        {
+          "imageSrc": "/assets/img/introduce_yeseon_1.png"
+        },
+        {
+          "imageSrc": "/assets/img/introduce_yeseon_2.png"
         }
       ],
       "description": "신랑, 신부를 소개합니다 :) "
@@ -102,11 +108,31 @@
           "imageSrc": "/assets/img/love_1.png"
         },
         {
-          "imageSrc": "/assets/img/love_3.jpg"
+          "imageSrc": "/assets/img/love_2.png"
+        },
+        {
+          "imageSrc": "/assets/img/love_3.jpg",
+          "action": {
+            "type": "link",
+            "text": "여기를 눌러서 더많은 사진 보기",
+            "color": "#05a826",
+            "href": "https://www.instagram.com/invites/contact/?i=1lojkkcc1qbug&utm_content=mm76lz4",
+            "mobileLink": "https://www.instagram.com/invites/contact/?i=1lojkkcc1qbug&utm_content=mm76lz4",
+            "pcLink": "https://www.instagram.com/invites/contact/?i=1lojkkcc1qbug&utm_content=mm76lz4"
+          }
         }
       ],
       "description": "",
       "tags": ["연애 사진"]
+    },
+    {
+      "id": 6,
+      "contents": [
+        {
+          "imageSrc": "/assets/img/account.png"
+        }
+      ],
+      "description": ""
     }
   ]
 }

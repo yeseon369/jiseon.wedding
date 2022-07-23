@@ -13,21 +13,31 @@
     },
     {
       "id": 2,
-      "name": "즐길거리",
-      "thumbnailImageSrc": "/assets/img/story2_thumnail.png",
-      "contents": [{
-        "id": 1,
-        "imageSrc": "/assets/img/story2.jpg",
-        "theme": "dark"
-      }]
-    },
-    {
-      "id": 3,
       "name": "주차정보",
       "thumbnailImageSrc": "/assets/img/parking_thumbnail.jpg",
       "contents": [{
         "id": 1,
         "imageSrc": "/assets/img/parking.png",
+        "theme": "dark"
+      }]
+    },
+    {
+      "id": 3,
+      "name": "혼주계좌",
+      "thumbnailImageSrc": "/assets/img/envelope.png",
+      "contents": [{
+        "id": 1,
+        "imageSrc": "/assets/img/account.png",
+        "theme": "dark"
+      }]
+    },
+    {
+      "id": 4,
+      "name": "주변 놀거리",
+      "thumbnailImageSrc": "/assets/img/story2_thumnail.png",
+      "contents": [{
+        "id": 1,
+        "imageSrc": "/assets/img/story2.jpg",
         "theme": "dark"
       }]
     }
