@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "id": 5,
+      "name": "예식장위치",
+      "thumbnailImageSrc": "/assets/img/howtogo.png",
+      "contents": [{
+        "id": 1,
+        "imageSrc": "/assets/img/howtogo.png",
+        "theme": "dark"
+      }]
+    },
+    {
       "id": 1,
       "name": "식사메뉴",
       "thumbnailImageSrc": "/assets/img/fork_knife.jpg",
@@ -8,8 +18,7 @@
         "id": 1,
         "imageSrc": "/assets/img/hotel_menu_1.jpg",
         "theme": "dark"
-      }
-    ]
+      }]
     },
     {
       "id": 2,
