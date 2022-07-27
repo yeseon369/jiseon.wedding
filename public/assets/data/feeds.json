@@ -42,7 +42,7 @@
           }
         }
       ],
-      "description": "\nHappy wedding Day💖\n4년간의 연애를 마치고 이예선, 한지혜 결혼합니다 ",
+      "description": "\nHappy wedding Day💖\n4년간의 연애를 마치고 이예선, 한지혜 결혼합니다 \n오셔서 저희의 결혼을 축하해주세요.",
       "createdAt": "2022-07-10"
     },
     {
@@ -61,7 +61,39 @@
           "imageSrc": "/assets/img/introduce_yeseon_2.png"
         }
       ],
-      "description": "신랑, 신부를 소개합니다 :) "
+      "description": "오늘의 신랑 신부를 소개합니다 :) ",
+      "tags": ["한지혜","이예선","jihye","yeseon","같은듯","다른우리"]
+    },
+    {
+      "id": 4,
+      "contents": [
+        {
+          "imageSrc": "/assets/img/garo_2.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/garo_1.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/garo_3.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/garo_4.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/garo_5.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/garo_6.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/garo_7.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/garo_8.jpg"
+        }
+      ],
+      "description": "\n넘 재미있었던 웨딩사진 촬영날💖\n촬영하다가 싸우는 커플도 있다는데,\n저희는 정말 잘 마무리했어여..! 열심히 표정 연습했는데,\n사진이 어색어색하게 나왔네요",
+      "tags": ["가로 사진"]
     },
     {
       "id": 3,
@@ -83,25 +115,6 @@
       "tags": ["세로 사진"]
     },
     {
-      "id": 4,
-      "contents": [
-        {
-          "imageSrc": "/assets/img/garo_1.jpg"
-        },
-        {
-          "imageSrc": "/assets/img/garo_2.jpg"
-        },
-        {
-          "imageSrc": "/assets/img/garo_3.jpg"
-        },
-        {
-          "imageSrc": "/assets/img/garo_4.jpg"
-        }
-      ],
-      "description": "",
-      "tags": ["가로 사진"]
-    },
-    {
       "id": 5,
       "contents": [
         {
@@ -111,10 +124,13 @@
           "imageSrc": "/assets/img/love_2.png"
         },
         {
-          "imageSrc": "/assets/img/love_3.jpg",
+          "imageSrc": "/assets/img/love_3.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/love_4.jpg",
           "action": {
             "type": "link",
-            "text": "여기를 눌러서 더많은 사진 보기",
+            "text": "여기를 눌러서 더 많은 사진 보기",
             "color": "#05a826",
             "href": "https://www.instagram.com/invites/contact/?i=1lojkkcc1qbug&utm_content=mm76lz4",
             "mobileLink": "https://www.instagram.com/invites/contact/?i=1lojkkcc1qbug&utm_content=mm76lz4",
@@ -122,7 +138,7 @@
           }
         }
       ],
-      "description": "",
+      "description": "\n성격이 다른듯 같은 우리가 만나서 재밌게 연애했어요..!\n4년동안 거의 맨날 만났는데도 아직 할말이 너무 많아요💜\n대한민국 최고의 콤비라고 생각합니다\n저희의 연애사가 궁금하시면 사진을 넘겨 커플계정으로 구경오세요",
       "tags": ["연애 사진"]
     },
     {
